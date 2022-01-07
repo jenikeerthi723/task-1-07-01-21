@@ -1,0 +1,15 @@
+
+function add(a,b,...c)
+{
+console.log(a);
+console.log(b);
+let[d,e,f,g,h,i]=c
+console.log(d);
+console.log(e);
+console.log(f);
+console.log(g);
+console.log(h);
+console.log(i);
+
+}
+add(1,2,3,4,4,55,66);
